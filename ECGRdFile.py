@@ -21,4 +21,3 @@ def cpsc2018load_matfile(filename, leadC):
 
 # read data from your electrocardiogram databases
 # add code
-# ...
