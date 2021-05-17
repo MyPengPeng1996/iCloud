@@ -1,4 +1,3 @@
-
 # -*- coding: utf-8 -*-
 from ECGRdFile import cpsc2018load_matfile
 from ECGSocket import iCloudClient
